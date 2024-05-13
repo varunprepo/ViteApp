@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "typedoc": "typedoc --out docs src && touch docs/.nojekyll"
   },
   "dependencies": {
     "vue": "^3.0.4"
