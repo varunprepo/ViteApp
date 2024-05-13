@@ -1,5 +1,6 @@
 {
-  "name": "ViteApp", 
+  "name": "ViteApp",
+  "homepage": "https://varunprepo.github.io/ViteApp/", 
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
